@@ -1,0 +1,10 @@
+# 이클립스 관련 파일 및 폴더
+.classpath
+.project
+.settings/
+
+# 빌드 결과물
+/build/
+
+# 윈도우 시스템 파일
+desktop.ini
